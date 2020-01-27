@@ -55,8 +55,7 @@ numberList = numberList_numb
 if dateList.__len__() == dateNameList.__len__() and dateList.__len__() == numberList.__len__():
     print("文件读取成功")
 else:
-    print("Error:文件损坏")
-    sys.exit()
+    raise EnvironmentError("文件已经损坏")
 
 print("更新日期")
 with open("./Last_Date.txt","w") as updateFile :
