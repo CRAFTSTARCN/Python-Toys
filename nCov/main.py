@@ -15,7 +15,7 @@ import urllib
 infoLink = "https://3g.dxy.cn/newh5/view/pneumonia?"
 infoPage = requests.get(infoLink).content.decode('utf-8')
 infoSoup = BeautifulSoup(infoPage, 'lxml')
-infoList = infoSoup.select('.content___2hIPS span')
+infoList = infoSoup.select('.content___2hIPS span span')
 
 print("确诊：",infoList[0].text," 疑似：",infoList[1].text," 治愈：",infoList[2].text," 死亡：",infoList[3].text)
 
