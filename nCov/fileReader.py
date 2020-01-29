@@ -60,4 +60,4 @@ else:
 print("更新日期")
 with open("./Last_Date.txt","w") as updateFile :
     updateFile.write(time.strftime("%Y")+" "+time.strftime("%m")+" "+time.strftime("%d"))
-print("更新完成")
+print("更新日期完成")
