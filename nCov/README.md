@@ -16,7 +16,7 @@ Python新手的联系项目
 他们凭什么不公开透明？    
 Feb.1st 2020  
 We'll remember this day  
-The reporter  of CCTV was driven out of local Red Cross Society's warehouse by Wuhan Red Cross Society，and there stream was cut off
+The reporter  of CCTV was driven out of local Red Cross Society's warehouse by Wuhan Red Cross Society，and there stream was cut off  
 Thy could even get into the Brazilian drug traffickers' dens......  
 But was swap out of the warehouse which sould storge materials against 2019-nCov by the Red Cross Society ,which should save lives, In their own country  
 While 13million people was watching their stream  
